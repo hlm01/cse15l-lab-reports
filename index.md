@@ -2,7 +2,7 @@ _abc_
 __bold__
 # Heading
 ## Heading
-[Link](github.com)
+[Link](another.html)
 > block quote
 *1
 *2
