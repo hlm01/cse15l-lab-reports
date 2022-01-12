@@ -1,23 +1,2 @@
-_abc_
-__bold__
-# Heading edit edit
-## Heading
-[Link](another.html)
-![image](https://media.fisheries.noaa.gov/2021-01/atlantic_mackerel.jpg?VersionId=null)
-> block quote
-*1
-*2
-*3
-
-1.
-2.
-3.
-
-someth1ng
-___
-`code`
-```
-code
-c
-c
-```
+[Lab Report 1](lab-report-1-week-2.html)
+[Lab Report 1](https://hlm01.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
