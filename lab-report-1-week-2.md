@@ -1,1 +1,1 @@
-![image](screenshot1.png)
+# Week 2 Lab Report
