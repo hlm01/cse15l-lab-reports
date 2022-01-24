@@ -26,6 +26,6 @@ By using ssh, we can avoid retyping the password when logging on the server. Usi
 
 ### 6. Optimizing Remote Running
 ![image](screenshots/image6.png)   
-Using the the semicolon allowd me to run multiple commands in the same line, and putting commands in quotes after the ssh command would run the command on the remote server. The line above shows a single line that copies and runs the java file on the remote server. This made the process more efficient because after making changes to the java file, I would only need to press up arrow in terminal and run a single line to have the changes be applied and run on the remote server. The exact number of keystrokes needed to run remotely this way is 2.
+Using the the semicolon allowd me to run multiple commands in the same line, and putting commands in quotes after the ssh command would run the command on the remote server. The line above shows a single line that copies and runs the java file on the remote server. This made the process more efficient because after making changes to the java file, I would only need to press up arrow in terminal and run a single line to have the changes be applied and run on the remote server. The exact number of keystrokes needed to run remotely this way is 3, which are mouse click to select terminal, up arrow to go to the previous command, and enter to run.
 
 
